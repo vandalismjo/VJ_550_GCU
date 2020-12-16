@@ -1,6 +1,13 @@
 # VJ_550_GCU
 Notebooks and Data for DSC-550 GCU
 
+
+# Topic 7 Instructions:
+RUN FILE: johansen_van_topic_7.ipynb or johansen_van_topic_7.html
+
+DATA IS PULLED FROM FILE: 'INPUT.TXT'
+
+
 # Topic 5 Instructions:
 RUN FILE: johansen_van_topic_5.ipynb or johansen_van_topic_5.html
 
