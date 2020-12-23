@@ -1,6 +1,11 @@
 # VJ_550_GCU
 Notebooks and Data for DSC-550 GCU
 
+# Topic 8 Instructions:
+RUN FILE: johansen_van_topic_8.ipynb or johansen_van_topic_8.html
+
+ALL DEPENDENCIES, LIBRARIES, AND DATA GENERATED IN CELLS
+
 
 # Topic 7 Instructions:
 RUN FILE: johansen_van_topic_7.ipynb or johansen_van_topic_7.html
